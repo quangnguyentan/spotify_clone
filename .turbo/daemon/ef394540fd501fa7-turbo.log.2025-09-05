@@ -1,0 +1,2 @@
+2025-09-05T09:17:21.949089Z  WARN turborepo_filewatch: failed to wait for initial filesystem cookie: filewatching failed to start: failed to write cookie to C:\Spotify-Clone\.turbo\cookies\.turbo-cookie: failed to create file `C:\Spotify-Clone\.turbo\cookies\.turbo-cookie`
+2025-09-05T09:17:22.277794Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
